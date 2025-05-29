@@ -273,4 +273,4 @@ st.markdown("---")
 st.caption("Note: GPA calculations may vary slightly based on your institution's specific grading scale and rounding rules.")
 
 # Add the MP4 video at the bottom of the page
-st.image("trump-draws.gif")
+# st.image("trump-draws.gif")
